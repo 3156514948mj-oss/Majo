@@ -1,0 +1,6 @@
+{
+  "name": "URBAN STYLE – FASHION STORE",
+  "description": "Tienda virtual de moda contemporánea en Colombia. Descubre colecciones exclusivas para mujer, hombre, niños y accesorios con envíos a todo el país.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
